@@ -33,12 +33,12 @@
 
 ### Contact Me...
 <div id="badges">
-<a href="(https://www.linkedin.com/in/kelsey-hardy-02240926a/)">
+<a href="https://www.linkedin.com/in/kelshardy">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="14024@coderacademy.edu.au">
+<a href="mailto:14024@coderacademy.edu.au">
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-<a href="k.hardy44@outlook.com">
+<a href="mailto:k.hardy44@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
 </a>
